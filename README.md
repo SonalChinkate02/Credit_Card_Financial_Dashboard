@@ -21,7 +21,6 @@ Once the data is loaded, check for null as well as duplicate values. Then using 
 Using different charts including Bar charts, Pie charts, Line charts, etc., and powerful PowerBI visuals created an interactive dashboard. The dashboard focuses on the important performance measures residing in data and updating the data in the SQL Database by adding new CSV files to previously created tables. After refreshing the dashboard the changes are visible thus the dashboard is ready for real-time use.
 
 ### 4. Project Insights:- 
-Week 53 (31st Dec)
 1. Revenue increased by 28.8%.
 2. Overall revenue is 57M.
 3. Total interest is 8M.
